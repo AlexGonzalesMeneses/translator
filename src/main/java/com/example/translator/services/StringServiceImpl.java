@@ -1,5 +1,5 @@
 /**
- * @author: Samuel Bazaolto
+ * @author: Alex Gonzales
  */
 
 package com.example.translator.services;
